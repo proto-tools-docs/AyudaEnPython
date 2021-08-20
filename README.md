@@ -1,5 +1,7 @@
 # AyudaEnPython
 
+![GitHub](https://img.shields.io/github/license/leugimkm/AyudaEnPython)
+
 ## Descripción
 
 Repositorio de la comunidad [Ayuda en Python](www.facebook.com/groups/ayudaenpython/) dedicada a brindar apoyo a
