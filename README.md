@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Repositorio de la comunidad [Ayuda en Python](www.facebook.com/groups/ayudaenpython/) dedicada a brindar apoyo a
+Repositorio de la comunidad [Ayuda en Python](https://www.facebook.com/groups/ayudaenpython/) dedicada a brindar apoyo a
 cualquier problema sobre Python (principiante, intermedio, avanzado),
 compartir información, conocimientos y experiencias relacionadas a `Python`.
 
